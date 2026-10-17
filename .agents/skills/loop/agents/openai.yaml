@@ -1,0 +1,4 @@
+interface:
+  display_name: "Loop 反馈闭环设计师"
+  short_description: "把任务想法变成可执行、可验收、有纠错与停止条件的反馈闭环"
+  default_prompt: "使用 $loop，把我的想法设计成可修改的 Feedback Loop，并生成可直接交给 Agent 的执行指令。"

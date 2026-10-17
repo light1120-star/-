@@ -1,0 +1,183 @@
+{
+  "skills": [
+    {
+      "name": "andrej-karpathy-perspective",
+      "folder": ".agents/skills/andrej-karpathy-perspective"
+    },
+    {
+      "name": "article-cover-designer",
+      "folder": ".agents/skills/article-cover-designer"
+    },
+    {
+      "name": "article-illustration-planner",
+      "folder": ".agents/skills/article-illustration-planner"
+    },
+    {
+      "name": "couple-photo-orchestrator",
+      "folder": ".agents/skills/couple-photo-orchestrator"
+    },
+    {
+      "name": "couple-photo-requirements-planner",
+      "folder": ".agents/skills/couple-photo-requirements-planner"
+    },
+    {
+      "name": "couple-photo-shooting-planner",
+      "folder": ".agents/skills/couple-photo-shooting-planner"
+    },
+    {
+      "name": "couple-photo-wardrobe-board",
+      "folder": ".agents/skills/couple-photo-wardrobe-board"
+    },
+    {
+      "name": "custom-asset-manager",
+      "folder": ".agents/skills/custom-asset-manager"
+    },
+    {
+      "name": "editorial-hairstylist",
+      "folder": ".agents/skills/editorial-hairstylist"
+    },
+    {
+      "name": "editorial-makeup-artist",
+      "folder": ".agents/skills/editorial-makeup-artist"
+    },
+    {
+      "name": "elon-musk-perspective",
+      "folder": ".agents/skills/elon-musk-perspective"
+    },
+    {
+      "name": "feynman-perspective",
+      "folder": ".agents/skills/feynman-perspective"
+    },
+    {
+      "name": "handdraw-style-prompter",
+      "folder": ".agents/skills/handdraw-style-prompter"
+    },
+    {
+      "name": "handraw-browser-producer",
+      "folder": ".agents/skills/handraw-browser-producer"
+    },
+    {
+      "name": "handraw-jianying-producer",
+      "folder": ".agents/skills/handraw-jianying-producer"
+    },
+    {
+      "name": "handraw-video-producer",
+      "folder": ".agents/skills/handraw-video-producer"
+    },
+    {
+      "name": "handraw-volc-tts",
+      "folder": ".agents/skills/handraw-volc-tts"
+    },
+    {
+      "name": "huashu-art-motion",
+      "folder": ".agents/skills/huashu-art-motion"
+    },
+    {
+      "name": "huashu-design",
+      "folder": ".agents/skills/huashu-design"
+    },
+    {
+      "name": "huashu-gpt-image",
+      "folder": ".agents/skills/huashu-gpt-image"
+    },
+    {
+      "name": "huashu-nuwa",
+      "folder": ".agents/skills/huashu-nuwa"
+    },
+    {
+      "name": "ilya-sutskever-perspective",
+      "folder": ".agents/skills/ilya-sutskever-perspective"
+    },
+    {
+      "name": "ip-designer",
+      "folder": ".agents/skills/ip-designer"
+    },
+    {
+      "name": "knowledge-video-director",
+      "folder": ".agents/skills/knowledge-video-director"
+    },
+    {
+      "name": "loop",
+      "folder": ".agents/skills/loop"
+    },
+    {
+      "name": "mrbeast-perspective",
+      "folder": ".agents/skills/mrbeast-perspective"
+    },
+    {
+      "name": "munger-perspective",
+      "folder": ".agents/skills/munger-perspective"
+    },
+    {
+      "name": "naval-perspective",
+      "folder": ".agents/skills/naval-perspective"
+    },
+    {
+      "name": "paul-graham-perspective",
+      "folder": ".agents/skills/paul-graham-perspective"
+    },
+    {
+      "name": "poster-prompt-generator",
+      "folder": ".agents/skills/poster-prompt-generator"
+    },
+    {
+      "name": "reference-beauty-prep",
+      "folder": ".agents/skills/reference-beauty-prep"
+    },
+    {
+      "name": "short-drama-auto-edit",
+      "folder": ".agents/skills/short-drama-auto-edit"
+    },
+    {
+      "name": "steve-jobs-perspective",
+      "folder": ".agents/skills/steve-jobs-perspective"
+    },
+    {
+      "name": "style-fusion-prompter",
+      "folder": ".agents/skills/style-fusion-prompter"
+    },
+    {
+      "name": "style-library-importer",
+      "folder": ".agents/skills/style-library-importer"
+    },
+    {
+      "name": "sun-yuchen-perspective",
+      "folder": ".agents/skills/sun-yuchen-perspective"
+    },
+    {
+      "name": "taleb-perspective",
+      "folder": ".agents/skills/taleb-perspective"
+    },
+    {
+      "name": "trump-perspective",
+      "folder": ".agents/skills/trump-perspective"
+    },
+    {
+      "name": "tweet-style-importer",
+      "folder": ".agents/skills/tweet-style-importer"
+    },
+    {
+      "name": "x-mastery-mentor",
+      "folder": ".agents/skills/x-mastery-mentor"
+    },
+    {
+      "name": "zhang-yiming-perspective",
+      "folder": ".agents/skills/zhang-yiming-perspective"
+    },
+    {
+      "name": "zhangxuefeng-perspective",
+      "folder": ".agents/skills/zhangxuefeng-perspective"
+    }
+  ],
+  "duplicate_entries_consolidated": [
+    {
+      "name": "handdraw-style-prompter",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\handraw-style\\skills\\handdraw-style-prompter"
+    },
+    {
+      "name": "couple-photo-orchestrator",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\handraw-style\\skills\\couple-photo-orchestrator\\skills\\zongkong"
+    }
+  ],
+  "excluded_files": []
+}
